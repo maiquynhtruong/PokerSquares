@@ -1,0 +1,3 @@
+Seems like DataFlavor should be the String representing the card
+Card should implement Transferable
+displayGraphics may need to be modified since it will be called when the grid is null
